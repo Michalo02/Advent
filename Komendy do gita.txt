@@ -1,0 +1,8 @@
+Komendy do Git
+git init 
+git clone - klonowanie gotowego z githuba
+git add . - dodawanie nazw plików
+git commit -m "wiadomość"- opis commitów
+git push - dodawanie na online repo 
+
+żeby zaktualizować to git add. , git commit i git push
